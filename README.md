@@ -1,5 +1,5 @@
 # CS-230-Solar-Digital
-CS 230 Deep Learning final project by Ryan Dwyer, Yash Gupta, and Andy Huynh
+Stanford CS 230: Deep Learning final project by Ryan Dwyer, Yash Gupta, and Andy Huynh
 
 Reducing energy production from carbon-emitting energy sources and moving to
 clean energy sources is vital in the fight against the global climate change crisis.
